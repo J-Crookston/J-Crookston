@@ -1,5 +1,3 @@
-Here are some ideas to get you started:
-
 Life long student continuously growing.
 - 🔭 I’m currently working on hobby and self development topics.
 - 🌱 I’m currently learning R and RStudio.
